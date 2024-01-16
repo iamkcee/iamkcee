@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamkcee
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on we developing with otheer friends. 
+- 💞️ I’m looking to collaborate on we developing with other friends. 
 - 📫 You can reach me on whatsapp: +2348094685252
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: i'm new to this LOL
